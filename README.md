@@ -1,2 +1,6 @@
 # ONE-BALANCE-
 STEPS TO DO ONE BALANCE TESTNET
+NAME : ONEBALANCE
+-FUNDING : 25M$
+-Good Usecase- Abstracting EVM, BITCOIN & SOLANA chains
+-Need Fund 1$-100+$
